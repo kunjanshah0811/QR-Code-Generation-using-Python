@@ -10,5 +10,5 @@ This Python script generates a QR code with the text "India is a country with ma
 
   ## Files
 
-- `generate_and_decode_qr.py`: Python script for generating and decoding QR codes.
+- `1_project.py`: Python script for generating and decoding QR codes.
 - `youtubeQR.jpg`: Generated QR code image.
